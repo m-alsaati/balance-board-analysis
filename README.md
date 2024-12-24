@@ -17,3 +17,8 @@ In order to present the accelerometer data in a more digestible format, we can c
 
 Correlation coefficients were also calculated for each dataset to determine how well a subject maintains their balance compared to the reference data, and the closer the coefficients are to a value of 1, the better the subject's perfomance.
 
+### Stabilograms
+A stabilogram provides a visual representation of the subjects balance around the reference point, that being the rest position of the accelerometer.
+
+<img src="https://github.com/user-attachments/assets/3c08f52d-2faf-46fd-847f-1972728e8a3c" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/cdd2df2a-bdcb-4ebb-8de8-78777dcc0ddf" width="400" height="300">
